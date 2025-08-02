@@ -1,0 +1,22 @@
+name: HHC_Server_Plugin
+version: 1.0
+main: org.hydrogenhosting.serverplugin.Main
+api-version: 1.21
+commands:
+  operator:
+    description: Server Operator
+    usage: /<command>
+commands:
+  gm:
+    description: GM Commands
+    usage: /<command> <subcommand> <int arg1>
+permissions:
+  hhcsrv.user:
+    description: Non staff
+    default: true
+  hhcsrv.mod:
+    description: Gives access to mod-level features
+    default: false
+  hhcsrv.admin:
+    description: Gives access to admin-level features
+    default: false
