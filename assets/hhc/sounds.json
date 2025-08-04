@@ -1,0 +1,11 @@
+{
+"cave.main":{"category": "master","sounds": [{"name": "hhc:dungeons/brawler/cave/landfall", "stream": true}]},
+"cave.final_boss":{"category": "master","sounds": [{"name": "hhc:dungeons/brawler/cave/until_my_bones_shatter", "stream": true}]},
+
+"sculk.main1":{"category": "master","sounds": [{"name": "hhc:dungeons/brawler/sculk/fusion", "stream": true}]},
+"sculk.main2":{"category": "master","sounds": [{"name": "hhc:dungeons/brawler/sculk/memory_lane", "stream": true}]},
+"sculk.main3":{"category": "master","sounds": [{"name": "hhc:dungeons/brawler/sculk/rock_bottom", "stream": true}]},
+"sculk.main4":{"category": "master","sounds": [{"name": "hhc:dungeons/brawler/sculk/vanessa_play", "stream": true}]},
+
+"factory.final_boss":{"category": "master","sounds": [{"name": "hhc:dungeons/brawler/factory/mechanical_rhythm_de", "stream": true}]}
+}

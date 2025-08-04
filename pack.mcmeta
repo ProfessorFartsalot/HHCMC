@@ -1,6 +1,6 @@
 {
- "pack":{
-   "pack_format": 81,
-   "description": "Resources curated by the HHC dev team"
- }
+  "pack": {
+    "pack_format": 64,
+    "description": "Hydrogen Hosting's custom Resource Pack"
+  }
 }
